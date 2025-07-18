@@ -1,0 +1,4 @@
+[Line 1] {'timestamp': 'Fri Jul 18 01:37:23.484984 2025', 'module': 'mpm_prefork', 'level': 'notice', 'pid': '6161', 'tid': '6161', 'error_code': 'AH00163', 'message': 'Apache/2.4.62 (Debian) configured -- resuming normal operations'}
+[Line 2] {'timestamp': 'Fri Jul 18 01:37:23.487142 2025', 'module': 'core', 'level': 'notice', 'pid': '6161', 'tid': '6161', 'error_code': 'AH00094', 'message': "Command line: '/usr/sbin/apache2'"}
+[Line 3] {'error_code': 'AH00558', 'message': "apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message"}
+[Line 4] {'error_code': 'AH00558', 'message': "apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message"}
